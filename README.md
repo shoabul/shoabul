@@ -1,168 +1,272 @@
-# Hi, I'm Shoabul 👋
+<div align="center">
 
-### Full-Stack Web Developer • Linux & Server Enthusiast
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
-I'm a passionate developer focused on building **modern, responsive and user-friendly web applications**. I enjoy working with both frontend and backend technologies, while also having a strong interest in **Linux systems, web hosting and server administration**.
+<br/><br/>
 
-I believe in learning by building, solving real-world problems, and continuously improving my technical skills.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D4ED8,100:2563EB&height=180&section=header&text=Shoabul&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
----
+  <h1>
+    Hi, I'm <strong>Shoabul</strong>
+  </h1>
 
-## About Me
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Web+Developer;Frontend+%7C+Backend+Developer;Linux+%26+Server+Enthusiast;Laravel+%7C+JavaScript+%7C+TypeScript;Building+Things+That+Actually+Work" alt="Typing SVG" />
+  </p>
 
-* 💻 Focused on **Web Development**
-* 🌐 Interested in **Frontend & Backend Development**
-* 🐧 Experienced with **Linux & Server Administration**
-* 🚀 Currently improving my skills in **JavaScript, TypeScript & Laravel**
-* 🛠️ Love working with **Linux, Hosting & Web Technologies**
-* 📚 Always learning something new
+  <p>
+    <strong>Web Developer | Linux & Server Enthusiast | Problem Solver</strong>
+  </p>
 
----
-
-## Tech Stack
-
-### Programming & Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-</p>
-
-### Frameworks & Styling
-
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-111827?style=for-the-badge"/>
-</p>
-
-### Database & Backend
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</p>
-
-### Linux & Server Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WHM-2C3E50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WHMCS-2C3E50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## What I Do
+## 👨‍💻 About Me
 
-### 🌐 Web Development
+I'm a **Web Developer** passionate about building responsive, practical and user-friendly web applications.
 
-I build responsive websites and web applications with a focus on:
+I enjoy working across both **frontend and backend development**, while also having hands-on experience with **Linux systems, web hosting and server administration**.
 
-* Semantic HTML & modern CSS
-* Responsive layouts
-* Flexbox & CSS Grid
-* Tailwind CSS
-* JavaScript & TypeScript
-* Backend development with PHP & Laravel
-* MySQL database integration
-* REST API concepts
+I'm continuously improving my development skills by learning, experimenting and building real-world projects.
 
-### 🐧 Linux & Server Administration
+### Currently Focused On
 
-I also have practical experience working with Linux-based systems and web hosting environments.
-
-**Areas I work with:**
-
-* Linux / Ubuntu
-* Command-line & shell environments
-* Web hosting management
-* cPanel & WHM
-* WHMCS
-* Webuzo
-* Cloudflare
-* MySQL administration & troubleshooting
-* Server troubleshooting
-* Website deployment & hosting
+* Building responsive and modern websites
+* Developing applications with **JavaScript & TypeScript**
+* Learning backend development with **PHP & Laravel**
+* Working with **MySQL databases**
+* Improving my Linux and server administration skills
+* Writing clean, maintainable and reusable code
+* Turning ideas into functional web applications
 
 ---
 
-## Currently Learning
+## 🧑‍💻 My Development Journey
 
 ```text
-JavaScript        ███████████████░░░
-TypeScript        ████████████░░░░░░
-Laravel           ██████████░░░░░░░░
-Backend           █████████░░░░░░░░░
-Linux             ████████████████░░
+Web Development
+      │
+      ├── Frontend
+      │     ├── HTML
+      │     ├── CSS
+      │     ├── JavaScript
+      │     ├── TypeScript
+      │     └── Tailwind CSS
+      │
+      ├── Backend
+      │     ├── PHP
+      │     ├── Laravel
+      │     ├── Node.js
+      │     └── REST APIs
+      │
+      ├── Database
+      │     └── MySQL
+      │
+      └── Dev & Server
+            ├── Git / GitHub
+            ├── Linux
+            ├── cPanel
+            ├── WHM
+            ├── WHMCS
+            ├── Webuzo
+            └── Cloudflare
 ```
-
-I'm currently focusing on becoming a stronger **full-stack developer** by improving my JavaScript/TypeScript fundamentals and building backend applications with Laravel.
 
 ---
 
-## Featured Projects
+<div align="center">
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php&theme=dark" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind&theme=dark" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" />
+
+</div>
+
+---
+
+## 🐧 Linux & Server Skills
+
+Alongside web development, I have practical experience working with Linux-based systems and web hosting environments.
+
+| Area                         | Technologies              |
+| ---------------------------- | ------------------------- |
+| Operating Systems            | Linux, Ubuntu, Linux Mint |
+| Hosting                      | cPanel, WHM, Webuzo       |
+| Billing / Hosting Management | WHMCS                     |
+| Networking & DNS             | Cloudflare                |
+| Database                     | MySQL                     |
+| Server Environment           | Linux CLI, Web Servers    |
+| Development Environment      | XAMPP, Node.js, npm, Git  |
+
+---
+
+## 🚀 What I'm Working On
+
+```text
+🌐 Responsive Web Development
+⚡ JavaScript & TypeScript
+🔧 Laravel & PHP
+🗄️ MySQL Database Development
+🐧 Linux & Server Administration
+☁️ Web Hosting & Deployment
+📦 Git & GitHub
+```
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+|  Technology  | Focus |
+| :----------: | :---- |
+|  JavaScript  | ⭐⭐⭐⭐☆ |
+|  TypeScript  | ⭐⭐⭐☆☆ |
+|    Laravel   | ⭐⭐⭐☆☆ |
+|      PHP     | ⭐⭐⭐☆☆ |
+| Tailwind CSS | ⭐⭐⭐⭐☆ |
+|     MySQL    | ⭐⭐⭐☆☆ |
+|     Linux    | ⭐⭐⭐⭐☆ |
+
+</div>
+
+> My goal is to become a strong **Full-Stack Web Developer** with solid knowledge of both application development and server-side technologies.
+
+---
+
+## 📂 Featured Projects
 
 ### 🌐 Responsive Web Projects
 
-Building responsive websites using:
+Building responsive websites with modern HTML, CSS, JavaScript and Tailwind CSS.
 
-`HTML` • `CSS` • `JavaScript` • `Tailwind CSS`
+**Focus:**
+`Responsive Design` `UI/UX` `Frontend Development`
 
-### 🛒 E-commerce & POS
+---
 
-Working toward building complete e-commerce systems with:
+### 🛒 E-Commerce & POS System
 
-`Laravel` • `PHP` • `MySQL` • `JavaScript`
+Exploring the development of complete e-commerce solutions with backend management and database integration.
+
+**Stack:**
+`Laravel` `PHP` `MySQL` `JavaScript`
+
+---
 
 ### 🐧 Linux Projects
 
-Exploring Linux administration, command-line tools, server management and practical system troubleshooting.
+Experimenting with Linux environments, command-line tools, server configuration and troubleshooting.
+
+**Focus:**
+`Linux` `Ubuntu` `Bash` `Server Administration`
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-## Let's Connect
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-I'm always interested in:
+<br/><br/>
 
-* Web Development
-* Open Source
-* Linux & Server Administration
-* Freelance Projects
-* Collaboration
-* Learning new technologies
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
 
-<p align="center">
-  <b>Code • Learn • Build • Improve</b>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>Thanks for visiting my profile!</i>
-</p>
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+```text
+[✓] Strengthen HTML & CSS fundamentals
+[✓] Learn Responsive Web Design
+[✓] Practice JavaScript
+[✓] Start TypeScript
+[ ] Build more real-world projects
+[ ] Become proficient in Laravel
+[ ] Build complete full-stack applications
+[ ] Improve backend architecture
+[ ] Deploy production-ready applications
+[ ] Contribute to Open Source
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="YOUR_FACEBOOK_URL">
+  <img src="https://skillicons.dev/icons?i=facebook" width="50"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `sudo apt update && sudo apt upgrade`
+
+**Code • Learn • Build • Improve**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1D4ED8,100:0D1117&height=100&section=footer" width="100%"/>
+
+</div>
