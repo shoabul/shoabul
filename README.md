@@ -183,7 +183,7 @@
   </a>
 </p>
 
-<h2 align="center">📈 My GitHub Activity</h2>
+<h2 align="center">📈 Activity</h2> <br/>
 <p align="center">Here's a snapshot of how I've been contributing lately 🚀</p>
 
 <p align="center">
@@ -193,7 +193,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shoabul&theme=github_dark" alt="shoabul's GitHub stats" />
 </p>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Laravel+%2B+Filament+PHP;Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
 </h1>
 
 <!-- Horizontal divider (gradient) -->
