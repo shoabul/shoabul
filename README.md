@@ -1,32 +1,20 @@
   <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Shoabul</h1></summary>
-  </ul>
-</div>
+# Hi 👋, I'm Shoabul
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-<!--Intro start-->
-<ul style="height: auto !important;">
-<li>
-<p>🔭 I’m currently working on <strong>HTML , CSS , JavaScript , TypeScript , ReactJS , NodeJS , NestJS</strong><div>Enrolling In Full Stack web Developer Courses</span></div></p>
+> *Confusion is part of programming — solving it is the art.*
 
-<li>
-<p>🌱 I’m currently learning <strong>to put together multiple Hyper Beast Stack for Scalable Applications.</strong></p>
-</li>
-<li>
-<p>☁️ I’ve keen interest in Servers</span>. So,I learned <strong>Linux</strong></p>
-<li>
-<p>📫 Feel free to reach me out <strong><a href="mailto:hello.shoabul@gmail.com">hello.shoabul@gmail.com</a></strong></p>
-</li>
-</ul>
+---
+
+### 👨‍💻 About Me
+
+* 🔭 **Currently Building:** HTML, CSS, JS, TS, React, Node.js & NestJS
+* 🌱 **Learning Focus:** Scalable Full-Stack Architecture
+* 💼 **Experience:** System Administrator at **Gio Host** *(Linux & Hosting Management)*
+* ☁️ **Passionate About:** Server Infrastructure & Cloud Hosting
+
+📫 **Get in touch:** [hello.shoabul@gmail.com](mailto:hello.shoabul@gmail.com)
 <!--Intro end-->
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -46,40 +34,51 @@
       
 
 <div align="center">
-  <h2><img src="https://api.iconify.design/lucide/layers.svg?color=%233B82F6" width="24" align="absmiddle"/> Tech Stack</h2>
-  <p>
-    <strong>Languages:</strong> <br/>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=light">
-      <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=dark" />
-    </picture>
-  </p>
-  <p>
-    <strong>Frontend & Backend:</strong> <br/>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=light">
-      <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=dark" />
-    </picture>
-  </p>
-  <p>
-    <strong>Databases:</strong> <br/>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=light">
-      <img src="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=dark" />
-    </picture>
-  </p>
-  <p>
-    <strong>Tools:</strong> <br/>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=light">
-      <img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=dark" />
-    </picture>
-  </p>
+
+  <h2>
+    <img src="https://api.iconify.design/lucide/layers.svg?color=%233B82F6" width="24" align="absmiddle"/>
+    Tech Stack
+  </h2>
+
+<p align="center">
+  <strong>Languages & Frameworks:</strong> <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Creact%2Cnodejs%2Cexpress%2Ctailwind&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Creact%2Cnodejs%2Cexpress%2Ctailwind&theme=light" alt="Languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <strong>Databases:</strong><br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=light" alt="Databases" />
+  </picture>
+</p>
+
+<p align="center">
+  <strong>Tools & Platforms:</strong><br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=light" />
+  </picture>
+</p>
+
 </div>
+
+<p align="center">
+  <strong>Experience</strong><br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux%2Cbash%2Cnginx%2Cubuntu%2Cdocker%2Ccloudflare&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux%2Cbash%2Cnginx%2Cubuntu%2Cdocker%2Ccloudflare&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux%2Cbash%2Cnginx%2Cubuntu%2Cdocker%2Ccloudflare&theme=light" alt="Hosting & Linux" />
+  </picture>
+  <br/><br/>
+  <sub style="font-size: 13px; color: #888;">Worked as a <strong>System Administrator</strong> at <strong>Gio Host</strong> — Experienced in Linux System Administration & Web Hosting Management</sub>
+</p>
 
 <br/>
 
